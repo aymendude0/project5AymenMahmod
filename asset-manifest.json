@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/project5AymenMahmod/static/css/main.8a54eeee.chunk.css",
+    "main.js": "/project5AymenMahmod/static/js/main.5020e7af.chunk.js",
+    "main.js.map": "/project5AymenMahmod/static/js/main.5020e7af.chunk.js.map",
+    "runtime-main.js": "/project5AymenMahmod/static/js/runtime-main.1786c172.js",
+    "runtime-main.js.map": "/project5AymenMahmod/static/js/runtime-main.1786c172.js.map",
+    "static/js/2.34aa92f4.chunk.js": "/project5AymenMahmod/static/js/2.34aa92f4.chunk.js",
+    "static/js/2.34aa92f4.chunk.js.map": "/project5AymenMahmod/static/js/2.34aa92f4.chunk.js.map",
+    "index.html": "/project5AymenMahmod/index.html",
+    "precache-manifest.4cd4fa23910e9a9017d4646685edfe6a.js": "/project5AymenMahmod/precache-manifest.4cd4fa23910e9a9017d4646685edfe6a.js",
+    "service-worker.js": "/project5AymenMahmod/service-worker.js",
+    "static/css/main.8a54eeee.chunk.css.map": "/project5AymenMahmod/static/css/main.8a54eeee.chunk.css.map",
+    "static/js/2.34aa92f4.chunk.js.LICENSE.txt": "/project5AymenMahmod/static/js/2.34aa92f4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/project5AymenMahmod/static/media/0d3e4a84ba9f77eef545736731c9e2a8.a485c0ea.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1786c172.js",
+    "static/js/2.34aa92f4.chunk.js",
+    "static/css/main.8a54eeee.chunk.css",
+    "static/js/main.5020e7af.chunk.js"
+  ]
+}
